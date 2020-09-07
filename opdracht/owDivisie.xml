@@ -26,17 +26,17 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200001</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200001</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-gm0546.juridischeregel.20200001</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.tekstdeel.20200001</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-gm0546.regeltekst.20200001"/>
+            <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200001"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-gm0546.gebied.20200001"/>
@@ -47,17 +47,17 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_7">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200002</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200002</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-gm0546.juridischeregel.20200002</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.tekstdeel.20200002</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-gm0546.regeltekst.20200002"/>
+            <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200002"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-gm0546.gebied.20200002"/>
@@ -68,17 +68,17 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_1">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200003</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200003</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-gm0546.juridischeregel.20200003</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.tekstdeel.20200003</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-gm0546.regeltekst.20200003"/>
+            <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200003"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-gm0546.gebied.20200003"/>
@@ -89,17 +89,17 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_2">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200004</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200004</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-gm0546.juridischeregel.20200004</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.tekstdeel.20200004</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-gm0546.regeltekst.20200004"/>
+            <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200004"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-gm0546.gebied.20200004"/>
@@ -110,17 +110,17 @@
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_3">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200005</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200005</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-gm0546.juridischeregel.20200005</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.tekstdeel.20200005</vt:identificatie>
           <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
           <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-gm0546.regeltekst.20200005"/>
+            <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200005"/>
           </vt:divisieaanduiding>
           <vt:locatieaanduiding>
             <l:LocatieRef xlink:href="nl.imow-gm0546.gebied.20200005"/>
@@ -129,54 +129,56 @@
       </ow-dc:owObject>
     </sl:stand>
     <!-- extra vt:Divisies -->
+    <!--
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_i">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200006</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200006</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_ii">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200007</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200007</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_iii">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200008</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200008</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_iv">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200009</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200009</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_5">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200010</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200010</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_6">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200011</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200011</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
     <sl:stand>
       <ow-dc:owObject>
         <vt:Divisie wId="gm0546_1__div_o_1__div_o_7__div_o_1">
-          <vt:identificatie>nl.imow-gm0546.regeltekst.20200012</vt:identificatie>
+          <vt:identificatie>nl.imow-gm0546.divisie.20200012</vt:identificatie>
         </vt:Divisie>
       </ow-dc:owObject>
     </sl:stand>
+    -->
   </sl:standBestand>
 </ow-dc:owBestand>
