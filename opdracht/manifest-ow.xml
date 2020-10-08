@@ -12,6 +12,10 @@
       <objecttype>Tekstdeel</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owHoofdlijn.xml</naam>
+      <objecttype>Hoofdlijn</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owLocatie.xml</naam>
       <objecttype>Gebied</objecttype>
     </Bestand>
