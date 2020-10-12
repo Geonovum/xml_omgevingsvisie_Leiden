@@ -10,7 +10,7 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0546</maker>
-         <officieleTitel>Omgevingsvisie Leiden</officieleTitel>
+         <officieleTitel>Besluit Concept Omgevingsvisie Leiden</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
@@ -457,7 +457,7 @@
          <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
          <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0546</maker>
-         <officieleTitel>Omgevingsvisie Leiden</officieleTitel>
+         <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
          <alternatieveTitels>
             <alternatieveTitel>Leiden</alternatieveTitel>
          </alternatieveTitels>
