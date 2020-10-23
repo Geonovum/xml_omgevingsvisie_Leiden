@@ -15,9 +15,13 @@
          <maker>/tooi/id/gemeente/gm0546</maker>
          <!--soortBestuursorgaan is 'gemeenteraad'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>
-            Besluit Concept Omgevingsvisie Leiden
-         </officieleTitel>
+         <officieleTitel>Besluit Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Besluit Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
@@ -466,9 +470,13 @@
          <maker>/tooi/id/gemeente/gm0546</maker>
          <!--soortBestuursorgaan is 'gemeenteraad'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>
-                  Concept Omgevingsvisie Leiden
-               </officieleTitel>
+         <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <alternatieveTitels>
             <alternatieveTitel>Leiden</alternatieveTitel>
          </alternatieveTitels>
