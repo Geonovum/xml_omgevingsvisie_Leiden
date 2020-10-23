@@ -11,6 +11,12 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0546</maker>
          <officieleTitel>Besluit Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Besluit Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
@@ -458,6 +464,12 @@
          <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
          <maker>/tooi/id/gemeente/gm0546</maker>
          <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
          <alternatieveTitels>
             <alternatieveTitel>Leiden</alternatieveTitel>
          </alternatieveTitels>
