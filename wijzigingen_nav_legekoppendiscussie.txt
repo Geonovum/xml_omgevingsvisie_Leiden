@@ -1,0 +1,9 @@
+De volgende wijzigingen zijn gedaan t.o.v. de originele versie:
+Hoofdstuk(Divisie) 1: non breaking white space
+Hoofdstuk(Divisie) 2: non breaking white space
+Hoofdstuk(Divisie) 3: * in de Opschrift
+Hoofdstuk(Divisie) 4: * in de Opschrift
+Hoofdstuk(Divisie) 5: * in de Opschrift
+Hoofdstuk(Divisie) 6: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst)
+Hoofdstuk(Divisie) 7: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst) 
+Bijlage: gewoon een Opschrift geplaatst bij de Kop
