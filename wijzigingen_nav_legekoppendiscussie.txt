@@ -1,9 +1,9 @@
 De volgende wijzigingen zijn gedaan t.o.v. de originele versie:
-Hoofdstuk(Divisie) 1: non breaking white space bij de Kop van Divisieteksten
-Hoofdstuk(Divisie) 2: non breaking white space bij de Kop van Divisieteksten
-Hoofdstuk(Divisie) 3: * in de Opschrift bij de Kop van Divisieteksten
-Hoofdstuk(Divisie) 4: * in de Opschrift bij de Kop van Divisieteksten
-Hoofdstuk(Divisie) 5: * in de Opschrift bij de Kop van Divisieteksten
-Hoofdstuk(Divisie) 6: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst)
-Hoofdstuk(Divisie) 7: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst) 
+Hoofdstuk(Divisie) 1: non breaking white space bij de Kop van Divisieteksten - Onder: Groen water, Boven: Om de grote opgaven
+Hoofdstuk(Divisie) 2: non breaking white space bij de Kop van Divisieteksten - Onder: Mobiliteit, Boven: Omdat de stad stevig
+Hoofdstuk(Divisie) 3: * in de Opschrift bij de Kop van Divisieteksten - Onder: Infra, Boven: De stad kan niet
+Hoofdstuk(Divisie) 4: * in de Opschrift bij de Kop van Divisieteksten - Onder: Duurzame Verstedelijking, Boven: In de moderne stad
+Hoofdstuk(Divisie) 5: * in de Opschrift bij de Kop van Divisieteksten - Onder: Conclusie, Boven: Het samenbrengen van deze
+Hoofdstuk(Divisie) 6: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst) - Divisietekst: Leefmilieu Hoogstedelijk en dynamisch, Hoofdlijn: Leefmilieus
+Hoofdstuk(Divisie) 7: Divisietekst gemaakt ipv Divisie (OW-annotatie wijst naar Divisietekst) - Divisietekst: Visie voor Leiden Zuidwest in 2040, Hoofdlijn: Ontwikkelperspectief
 Bijlage: gewoon een Opschrift geplaatst bij de Kop
