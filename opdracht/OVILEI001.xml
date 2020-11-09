@@ -137,7 +137,7 @@
                      </Kop>
                      <Divisietekst eId="div_o_1__content_o_1" wId="gm0546_1__div_o_1__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                         <Kop>
-                           <Opschrift/>
+                           <Opschrift>&#160;</Opschrift>
                         </Kop>
                         <Inhoud>
                            <Al>
@@ -197,7 +197,7 @@
                         <Divisietekst eId="div_o_1__div_iii__content_o_1"
                                       wId="gm0546_1__div_o_1__div_iii__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                            <Kop>
-                              <Opschrift/>
+                              <Opschrift>*</Opschrift>
                            </Kop>
                            <Inhoud>
                               <Al>In de moderne stad is er veel vraag naar gemengde stedelijke milieus, met een hoogwaardige openbare ruimte en op goed bereikbare locaties. In de huidige stad zijn grote delen ontworpen vanuit het idee van het scheiden van functies. Richting de toekomst zijn gemengde gebieden in trek bij bedrijven en bewoners en het is dus ook van economische belang om gemengde gebieden te realiseren.<br/>Een andere doelstelling is het ontwikkelen van een inclusieve stad, een stad waarbij functies en voorzieningen nabij zijn en er plek is voor álle inwoners. Dit vraagt voldoende woningaanbod, ook voor lagere inkomens en voor specifieke doelgroepen. En het vraagt om nabijheid en toegankelijkheid van voorzieningen. In de monofunctionele delen van de stad is het aanbod aan voorzieningen beperkt. Het is niet zomaar mogelijk voorzieningen en functies te spreiden over de stad, er is wel economisch draagvlak nodig voor bepaalde voorzieningen. Dit vraagt soms om verdichting en menging. Vanuit verdichting is er ook een opgave meer te mengen, de ruimte in de stad is beperkt vanwege onder andere beschermd stadsgezicht .</Al>
@@ -338,7 +338,7 @@
                         <Divisietekst eId="div_o_1__div_o_7__content_o_1"
                                       wId="gm0546_1__div_o_1__div_o_7__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                            <Kop>
-                              <Opschrift/>
+                              <Opschrift>*</Opschrift>
                            </Kop>
                            <Inhoud>
                               <Al>Klein stukje tekst over zuidwest in visie verder verwijzen naar document <ExtRef ref="https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0546.OP00001-0201/t_NL.IMRO.0546.OP00001-0201.pdf"
