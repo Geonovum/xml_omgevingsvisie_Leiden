@@ -52,35 +52,35 @@
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0546/2020/gemeente_leiden/nld@2020-08-20;1</instrumentVersie>
                <eId>!vervanging_reg#cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20;1</instrumentVersie>
                <eId>!vervanging_reg#cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0546/2020/1_hoogstedelijk_en_dynamisch/nld@2020-08-20;1</instrumentVersie>
                <eId>!vervanging_reg#cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20;1</instrumentVersie>
                <eId>!vervanging_reg#cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/gm0546/2020/3_groen_en_luw/nld@2020-08-20;1</instrumentVersie>
                <eId>!vervanging_reg#cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
@@ -89,7 +89,7 @@
          <Intrekkingen>
             <Intrekking>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/IntrekkenVervangenOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
                </doelen>
                <instrument>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1</instrument>
                <eId>art_II</eId>
@@ -468,6 +468,42 @@
       </BesluitCompact>
    </BesluitVersie>
    <RegelingVersieInformatie>
+      <!-- te vervangen regeling -->
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0546</maker>
+         <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <alternatieveTitels>
+            <alternatieveTitel>Leiden</alternatieveTitel>
+         </alternatieveTitels>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+   <RegelingVersieInformatie>
+      <!-- vervangende regeling -->
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI001</FRBRWork>
          <FRBRExpression>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-11-13;2</FRBRExpression>
@@ -499,6 +535,9 @@
          <rechtsgebieden>
             <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
          </rechtsgebieden>
+         <opvolging>
+            <opvolgerVan>/akn/nl/act/gm0546/2020/OVILEI001</opvolgerVan>
+         </opvolging>
       </RegelingMetadata>
    </RegelingVersieInformatie>
 </AanleveringBesluit>
