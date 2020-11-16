@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+  schemaversie="1.0.3">
+  <InformatieObjectVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/join/id/regdata/gm0546/2020/2_stads_en_levendig</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_010</soortWork>
+    </ExpressionIdentificatie>
+    <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <heeftGeboorteregeling>/akn/nl/act/gm0546/2020/OVILEI001</heeftGeboorteregeling>
+      <heeftBestanden>
+        <heeftBestand>
+          <Bestand>
+            <bestandsnaam>004_2_stads_en_levendig.gml</bestandsnaam>
+            <hash>a917ce0f23d850793f35584bf4b0733acb617eb56b3cc887202082a1ca5a63b662098903a046e1590843e64cf0435033d7c289265718b15832da57b1311a192b</hash>
+          </Bestand>
+        </heeftBestand>
+      </heeftBestanden>
+    </InformatieObjectVersieMetadata>
+    <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
+      <maker>/tooi/id/gemeente/gm0546</maker>
+      <alternatieveTitels>
+        <alternatieveTitel>2 Stads en levendig</alternatieveTitel>
+      </alternatieveTitels>
+      <officieleTitel>/join/id/regdata/gm0546/2020/2_stads_en_levendig</officieleTitel>
+      <publicatieinstructie>TeConsolideren</publicatieinstructie>
+      <naamInformatieObject>2 Stads en levendig</naamInformatieObject>
+      <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+    </InformatieObjectMetadata>
+  </InformatieObjectVersie>
+</AanleveringInformatieObject>
