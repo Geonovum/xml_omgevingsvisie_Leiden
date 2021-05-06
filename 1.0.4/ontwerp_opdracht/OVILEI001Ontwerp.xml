@@ -92,14 +92,6 @@
                <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
-         <Tijdstempels>
-            <Tijdstempel>
-               <doel>/join/id/proces/gm0546/2020/OntwerpOmgevingsvisie</doel>
-               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-01-01</datum>
-               <eId>art_II</eId>
-            </Tijdstempel>
-         </Tijdstempels>
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
