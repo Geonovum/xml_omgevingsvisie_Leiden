@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>002_ontwikkelperspectief_zuidwest.gml</bestandsnaam>
-                  <hash>b826d09898d746d05a8c3053f0a7f1ffb9911712b94c0ca223b8b9f3bc2e0825d67f9de082786cd1705606454364b512c5ceba239545d3fab373cb2848e6758f</hash>
+                  <hash>a3b02fa8260593ec4f3398ee9ec81e266f6023cc3a4b7eecabe07cf3cd19c218486a7ea5ea857ed48b50fa26a2083a3b4be772f7844e3e240ffe9442d731d4df</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
