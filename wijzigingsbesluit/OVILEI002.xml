@@ -437,42 +437,6 @@
          </WijzigBijlage>
       </BesluitCompact>
    </BesluitVersie>
-   <RegelingVersieInformatie><!-- te vervangen regeling -->
-      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1</FRBRExpression>
-         <soortWork>/join/id/stop/work_019</soortWork>
-      </ExpressionIdentificatie>
-      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>1</versienummer>
-      </RegelingVersieMetadata>
-      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
-         <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
-         <maker>/tooi/id/gemeente/gm0546</maker>
-         <!--soortBestuursorgaan is 'gemeenteraad'.-->
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>Concept Vervanging Omgevingsvisie Leiden</officieleTitel>
-         <heeftCiteertitelInformatie>
-            <CiteertitelInformatie>
-               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
-               <isOfficieel>true</isOfficieel>
-            </CiteertitelInformatie>
-         </heeftCiteertitelInformatie>
-         <alternatieveTitels>
-            <alternatieveTitel>Leiden</alternatieveTitel>
-         </alternatieveTitels>
-         <overheidsdomeinen>
-            <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
-         </overheidsdomeinen>
-         <onderwerpen>
-            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
-         </onderwerpen>
-         <rechtsgebieden>
-            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
-         </rechtsgebieden>
-      </RegelingMetadata>
-   </RegelingVersieInformatie>
    <RegelingVersieInformatie><!-- vervangende regeling -->
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI002</FRBRWork>
