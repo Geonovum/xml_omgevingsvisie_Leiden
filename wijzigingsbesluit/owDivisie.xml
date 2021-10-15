@@ -12,7 +12,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0-rc/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Gemeente Leiden</sl:dataset>
       <sl:inhoud>
@@ -42,11 +42,12 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.20200002</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/gezondheid/id/concept/Gezondheid</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/Veiligheid</vt:thema>
+               <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie</vt:thema>-->
+               <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit</vt:thema>-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--               <vt:thema>http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme</vt:thema>-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema> <!--NIEUW-->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
                <!--toegevoegd om een afwijking te constateren met initiële aanlevering-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200002"/>
@@ -59,70 +60,70 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_ii">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200003</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__content_ii">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200003</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_iii">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200004</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__content_iii">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200004</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_iv">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200005</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__content_iv">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200005</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_5">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200006</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__content_o_6">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200006</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_6">
+            <vt:Divisie wId="gm0546_1__div_o_1__div_o_1">
                <vt:identificatie>nl.imow-gm0546.divisie.20200007</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_1">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200008</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__div_o_1__content_o_1">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200008</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_2">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200009</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__div_o_1__content_o_2">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200009</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_6__div_o_3">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200010</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__div_o_1__content_o_3">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200010</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_7__div_o_1">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200011</vt:identificatie>
-            </vt:Divisie>
+            <vt:Divisietekst wId="gm0546_1__div_o_1__div_o_2__content_o_2">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200011</vt:identificatie>
+            </vt:Divisietekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_7">
+            <vt:Divisie wId="gm0546_1__div_o_1__div_o_2">
                <vt:identificatie>nl.imow-gm0546.divisie.20200012</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
