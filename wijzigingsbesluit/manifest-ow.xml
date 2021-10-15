@@ -9,6 +9,7 @@
       <Bestand>
          <naam>owDivisie.xml</naam>
          <objecttype>Divisie</objecttype>
+         <objecttype>Divisietekst</objecttype>
          <objecttype>Tekstdeel</objecttype>
       </Bestand>
       <Bestand>

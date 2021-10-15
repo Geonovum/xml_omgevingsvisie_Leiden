@@ -20,6 +20,7 @@
          <sl:leveringsId>OVILEI001-002</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Divisie</sl:objectType>
+            <sl:objectType>Divisietekst</sl:objectType>
             <sl:objectType>Tekstdeel</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
