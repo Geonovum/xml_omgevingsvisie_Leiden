@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.1.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm0546/2021/OVILEI002</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm0546/2021/OVILEI002/nld@2021-10-18</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0546</maker>
+         <!--soortBestuursorgaan is 'gemeenteraad'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Besluit Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Besluit Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm0546/2020/gemeente_leiden/nld@2020-08-20</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0546/2020/1_hoogstedelijk_en_dynamisch/nld@2020-08-20</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm0546/2020/3_groen_en_luw/nld@2020-08-20</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2020-08-11</bekendOp>
+         <ontvangenOp>2020-08-11</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2020-08-11</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0546/2020/gemeente_leiden/nld@2020-08-20</instrumentVersie>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20</instrumentVersie>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0546/2020/1_hoogstedelijk_en_dynamisch/nld@2020-08-20</instrumentVersie>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20</instrumentVersie>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/gm0546/2020/3_groen_en_luw/nld@2020-08-20</instrumentVersie>
+               <eId>!initieel_reg#cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
+            </BeoogdInformatieobject>
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2021-01-01</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Besluit Concept Omgevingsvisie Leiden</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>Het besluit betreft een concept of test om te achterhalen hoe de tekst gestructureerd moet worden en welke annotaties zinvol zijn.</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm0546_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>'Concept Omgevingsvisie Leiden', zie <IntRef ref="cmp_I" scope="WijzigBijlage">bijlage I</IntRef>.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm0546_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>'Concept Omgevingsvisie Leiden' treedt in werking op 1 januari 2021.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>Sluiting bij het 'Besluit Concept Omgevingsvisie Leiden'.</Al>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_I" wId="gm0546_1__cmp_I">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>I</Nummer>
+            </Kop>
+            <RegelingMutatie componentnaam="wijzigingsbesluit" was="/akn/nl/act/gm0546/2020/OVILEI002/nld@2020-11-13;2" wordt="/akn/nl/act/gm0546/2020/OVILEI002/nld@2021-10-18">
+               <VoegToe positie="komtVoor" context="gm0546_1__div_o_1">
+                  <Divisie wId="gm0546_1__div_o_0" eId="div_o_0">
+                     <Kop>
+                        <Opschrift>Toevoegingen n.a.v. wijzigingsbesluit</Opschrift>
+                     </Kop>
+                     <Divisietekst wId="gm0546_1__div_o_0__content_o_1" eId="div_o_0__content_o_1">
+                        <Inhoud>
+                           <Al>Een toevoeging.</Al>
+                        </Inhoud>
+                     </Divisietekst>
+                  </Divisie>
+               </VoegToe>
+               <Vervang wat="gm0546_1__div_o_1__div_o_1">
+                  <Divisie eId="div_o_1__div_o_1" wId="gm0546_1__div_o_1__div_o_1">
+                     <Kop>
+                        <Opschrift>De drie leefmilieus</Opschrift>
+                     </Kop>
+                     <Divisietekst eId="div_o_1__div_o_1__content_o_1"
+                        wId="gm0546_1__div_o_1__div_o_1__content_o_1">
+                        <Inhoud><Al>we hebben gewoon geen zin meer in leefmilieus</Al></Inhoud>
+                     </Divisietekst>
+                  </Divisie>
+               </Vervang>
+            </RegelingMutatie>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI002</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm0546/2020/OVILEI002/nld@2021-10-18</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
+         <eindverantwoordelijke>/tooi/id/gemeente/gm0546</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm0546</maker>
+         <!--soortBestuursorgaan is 'gemeenteraad'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <alternatieveTitels>
+            <alternatieveTitel>Leiden</alternatieveTitel>
+         </alternatieveTitels>
+         <overheidsdomeinen>
+            <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
+         </overheidsdomeinen>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>
