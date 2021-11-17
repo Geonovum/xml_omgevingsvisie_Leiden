@@ -25,7 +25,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <ga:Gebiedsaanwijzing>
-               <ga:identificatie>nl.imow-gm0546.gebiedsaanwijzing.2020000001</ga:identificatie>
+               <ga:identificatie>nl.imow-gm0546.gebiedsaanwijzing.reserveringsgebied</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Verkeer</ga:type>
                <ga:naam>Even gereserveerd voor een test</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Reserveringsgebied</ga:groep>
