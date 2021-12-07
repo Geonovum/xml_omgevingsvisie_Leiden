@@ -92,7 +92,7 @@
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
             </Kop>
-            <RegelingMutatie componentnaam="integraletekstvervanging" was="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1" wordt="/akn/nl/act/gm0546/2021/OVILEI001/nld@2021-01-11;2">
+            <RegelingMutatie componentnaam="integraletekstvervanging" was="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1" wordt="/akn/nl/act/gm0546/2020/OVILEI001/nld@2021-01-11;2">
                <Vervang wat="body">
                   <Lichaam eId="body" wId="body">
                      <Divisie eId="div_o_1" wId="gm0546_1__div_o_1">
@@ -282,7 +282,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/gm0546/2020/OVILEI001</FRBRWork>
-         <FRBRExpression>/akn/nl/act/gm0546/2021/OVILEI001/nld@2021-01-11;2</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/gm0546/2020/OVILEI001/nld@2021-01-11;2</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

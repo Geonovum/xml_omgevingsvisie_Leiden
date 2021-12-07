@@ -18,7 +18,7 @@
          <officieleTitel>Besluit Concept Omgevingsvisie Leiden</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Besluit Concept Omgevingsvisie Leiden</citeertitel>
+               <citeertitel>Besluit Omgevingsvisie Leiden (Geonovum-voorbeeld)</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -96,14 +96,14 @@
             <Tijdstempel>
                <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-01-01</datum>
+               <datum>2021-11-22</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>Besluit Concept Omgevingsvisie Leiden</Al>
+            <Al>Besluit Omgevingsvisie Leiden (Geonovum-voorbeeld)</Al>
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
             <Al>Het besluit betreft een concept of test om te achterhalen hoe de tekst gestructureerd moet worden en welke annotaties zinvol zijn.</Al>
@@ -137,7 +137,7 @@
             <RegelingVrijetekst componentnaam="initieel_reg"
                                 wordt="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Concept Omgevingsvisie Leiden</Al>
+                  <Al>Omgevingsvisie Leiden (Geonovum-voorbeeld)</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Divisie eId="div_o_1" wId="gm0546_1__div_o_1">
@@ -407,10 +407,10 @@
          <maker>/tooi/id/gemeente/gm0546</maker>
          <!--soortBestuursorgaan is 'gemeenteraad'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
-         <officieleTitel>Concept Omgevingsvisie Leiden</officieleTitel>
+         <officieleTitel>Omgevingsvisie Leiden (Geonovum-voorbeeld)</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Concept Omgevingsvisie Leiden</citeertitel>
+               <citeertitel>Omgevingsvisie Leiden (Geonovum-voorbeeld)</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
