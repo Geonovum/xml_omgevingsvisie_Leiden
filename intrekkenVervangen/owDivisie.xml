@@ -51,7 +51,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
                <!--toegevoegd om een afwijking te constateren met initiële aanlevering-->
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.20200002"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20200002"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-gm0546.hoofdlijn.20200002"><!--Opgaven vertaald naar de ruimte|Groen/blauw--></vt:HoofdlijnRef>
