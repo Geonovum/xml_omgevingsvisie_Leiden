@@ -33,8 +33,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_i">
-               <vt:identificatie>nl.imow-gm0546.divisie.20200002</vt:identificatie>
+            <vt:Divisie wId="gm0546_1__div_o_1__content_o_1">
+               <vt:identificatie>nl.imow-gm0546.divisietekst.20200002</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
       </sl:stand>
