@@ -44,17 +44,17 @@
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
                <doelen>
-                  <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+                  <doel>/join/id/proces/gm0546/2020/Wijzigingsbesluit</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/gm0546/2020/OVILEI002/nld@2021-10-18</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
          <Tijdstempels>
             <Tijdstempel>
-               <doel>/join/id/proces/gm0546/2020/InstellingOmgevingsvisie</doel>
+               <doel>/join/id/proces/gm0546/2020/Wijzigingsbesluit</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-01-01</datum>
+               <datum>2021-04-01</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -113,6 +113,51 @@
                      <Divisietekst eId="div_o_1__div_o_1__content_o_1"
                         wId="gm0546_1__div_o_1__div_o_1__content_o_1">
                         <Inhoud><Al>we hebben gewoon geen zin meer in leefmilieus</Al></Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="div_o_1__div_o_1__content_o_2"
+                        wId="gm0546_1__div_o_1__div_o_1__content_o_2">
+                        <Kop>
+                           <Opschrift>
+                              <IntIoRef eId="div_o_1__div_o_1__content_o_2__ref_o_1"
+                                 wId="gm0546_1__div_o_1__div_o_1__content_o_2__ref_o_1"
+                                 ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1">Leefmilieu Stads en levendig</IntIoRef> in 2040 (kaart 2)</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>Gebieden in dit leefmilieu kenmerken zich door hun aantrekkelijke ligging direct grenzend aan het centrum van Leiden. In de gebieden wordt veel gewoond maar door de nabijheid van het centrum zijn de huishoudens stedelijk georiënteerd. In de gebieden wordt ook veel gewerkt, in huis, in de horeca en in de buurtgebonden bedrijvigheid. Dit leefmilieu biedt ruimte aan een mix van functies en een mix van doelgroepen/ huishoudens. Deze mix kan per buurt wel verschillen.<br/>De meeste verplaatsingen worden gedaan per fiets en te voet. De verbindingen met het centrum zijn via een fijnmazig langzaamverkeersnetwerk goed in orde. De belangrijkste fietsverbindingen tussen de gebieden en de binnenstad zijn de historische invalswegen van Leiden. Langs deze wegen liggen de meeste voorzieningen zodat de voorzieningen overal in het gebied nabij zijn.<br/>Grote delen van dit gebied lenen zich voor verdere verdichting en verstedelijking. In dit gebied wordt dan ook een aanzienlijk deel van de woningbouwopgave ingepast. Intensivering leidt dit ook steeds tot kwaliteitsverbetering. Verdichting vindt veelal plaats buiten de beschermd stadsgezicht-gebieden.<br/>De gemakkelijkste vervoerskeuze vanuit het gebied naar de binnenstad is met te voet of met de fiets, met de auto zijn de verbindingen naar de Leidse ring goed in orde. De goede bereikbaarheid met openbaar vervoer leent zich voor de gewenste autoluwe verstedelijking, passend bij de groene en duurzame stad die Leiden wil zijn.</Al>
+                           <Al>De openbare ruimte en het groen/water nodigen uit tot gebruik. Deze plekken geven lucht en ruimte in de verder verdichtende stad. Door en langs de buurten loopt de stedelijke hoofdgroen-blauwstructuur (onder andere Singelpark en tweede groene ring) zodat de wijken via groene routes goed verbonden zijn met het buitengebied. Ook dragen deze structuren bij aan recreatiemogelijkheden en opgaven rond klimaatadaptatie.</Al>
+                           <Figuur eId="div_o_1__div_o_1__content_o_2__img_o_1"
+                              wId="gm0546_1__div_o_1__div_o_1__content_o_2__img_o_1">
+                              <Illustratie naam="image3.jpeg"
+                                 formaat="image/jpeg"
+                                 breedte="7937"
+                                 hoogte="5603"
+                                 dpi="72"
+                                 uitlijning="start"/>
+                              <Bijschrift locatie="boven">Kaart 2</Bijschrift>
+                           </Figuur>
+                        </Inhoud>
+                     </Divisietekst>
+                     <Divisietekst eId="div_o_1__div_o_1__content_o_3"
+                        wId="gm0546_1__div_o_1__div_o_1__content_o_3">
+                        <Kop>
+                           <Opschrift>
+                              <IntIoRef eId="div_o_1__div_o_1__content_o_3__ref_o_1"
+                                 wId="gm0546_1__div_o_1__div_o_1__content_o_3__ref_o_1"
+                                 ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1">Leefmilieu Groen en luw</IntIoRef> in 2040 (kaart 3)</Opschrift>
+                        </Kop>
+                        <Inhoud>
+                           <Al>De wijken aan de randen van de stad profiteren van zowel de ligging op fietsafstand van de binnenstad als de ligging aan de grote landschappen. Stad én buitengebied zijn nabij. De grote kracht van deze gebieden is de relatieve rust, het groene karakter (zowel openbaar groen als privétuinen) en het relatief grote aandeel eengezinswoningen. Het zijn de wat meer traditionele woonwijken, met een centraal gelegen voorzieningencentrum en wijk(sport)park. Naast de woongebieden bevinden zich hier ook de meer traditionele bedrijventerreinen met de dienstverlenende bedrijfsfuncties die niet goed mengbaar zijn met wonen.<br/>De auto heeft hier een belangrijke rol. De wijken liggen aan de belangrijke invalswegen van de stad. Via de Leidse ring zijn de verbindingen naar andere wijken met de auto goed op orde. De fietsroutes tussen deze wijken en de binnenstad / stations / andere wijken zijn direct en aantrekkelijk. Waar mogelijk maken zij gebruik van de historische routes die stad en ommeland al sinds jaar en dag met elkaar verbinden. Barrières als grote infrastructuur en water worden waar nodig beter oversteekbaar. Openbaar vervoer (bus, MAAS) verbindt de wijk(centra) met de binnenstad en het station.<br/>Het wijkwinkelcentrum vormt, samen met het goed toegankelijke wijk(sport)park, het hart van de wijk. Historische routes, (water)structuren en bijzondere plekken geven meer kleur aan de openbare ruimte. De tweede groene ring in de stad (naast het Singelpark)<br/>In deze wijken wonen relatief veel gezinnen. Extra (gestapelde) woningen voor oudere doelgroepen en kleinere huishoudens kunnen de bestaande woningvoorraad aanvullen. De groeiende groep ouderen kan zo binnen de wijk (en het sociale netwerk) doorstromen.</Al>
+                           <Figuur eId="div_o_1__div_o_1__content_o_3__img_o_1"
+                              wId="gm0546_1__div_o_1__div_o_1__content_o_3__img_o_1">
+                              <Illustratie naam="image4.jpeg"
+                                 formaat="image/jpeg"
+                                 breedte="7937"
+                                 hoogte="5605"
+                                 dpi="72"
+                                 uitlijning="start"/>
+                              <Bijschrift locatie="boven">Kaart 3</Bijschrift>
+                           </Figuur>
+                        </Inhoud>
                      </Divisietekst>
                   </Divisie>
                </Vervang>
