@@ -15,7 +15,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/gm0546/2020/2_stads_en_levendig</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20;ontwerp</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>

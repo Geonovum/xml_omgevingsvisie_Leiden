@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest</FRBRWork>
-         <FRBRExpression>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>002_ontwikkelperspectief_zuidwest.gml</bestandsnaam>
-                  <hash>e056501ee14ab205ecf8e04760615297de05754decb0e36adf78d31b4c87738af5b43ab23a3585f1ec9b2a07a6198156d6394f9b2d4a0044e2506c5ec2598d67</hash>
+                  <hash>49a709a1d21c28aa47ab04c486109aa8524f4ccbde9117ac8a52aa6444bcb950e8f9ecdb6af22d7eab2bda96aac1334ebb6ba3af777e28423de89c29bb0cb17b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
