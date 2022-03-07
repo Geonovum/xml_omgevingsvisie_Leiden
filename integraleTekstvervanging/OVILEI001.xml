@@ -2,8 +2,8 @@
 <!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                    schemaversie="1.1.0"
-                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/gm0546/2021/OVILEI001</FRBRWork>
@@ -92,7 +92,9 @@
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
             </Kop>
-            <RegelingMutatie componentnaam="integraletekstvervanging" was="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1" wordt="/akn/nl/act/gm0546/2020/OVILEI001/nld@2021-01-11;2">
+            <RegelingMutatie componentnaam="integraletekstvervanging"
+                             was="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1"
+                             wordt="/akn/nl/act/gm0546/2020/OVILEI001/nld@2021-01-11;2">
                <Vervang wat="body">
                   <Lichaam eId="body" wId="body">
                      <Divisie eId="div_o_1" wId="gm0546_1__div_o_1">
@@ -103,16 +105,16 @@
                            <Inhoud>
                               <Al>
                                  <IntIoRef eId="div_o_1__content_o_1__ref_o_1"
-                                    wId="gm0546_1__div_o_1__content_o_1__ref_o_1"
-                                    ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Leiden</IntIoRef> is een internationale kennisstad (City of Science) en historische cultuurstad die volop groeit. Leiden maakt onderdeel uit van een verstedelijkte en succesvolle regio van ongeveer 300.000 inwoners, waarbinnen Leiden de kernstad vormt. In Leiden zal, gezien de beperkte ruimte binnen de stadgrenzen, de goede bereikbaarheid en de aanwezige voorzieningen, vooral ruimte zijn voor stedelijke leefmilieus. Daarbij wil Leiden een groene en duurzame stad zijn. En een inclusieve stad voor iedereen en met iedereen.</Al>
+                                           wId="gm0546_1__div_o_1__content_o_1__ref_o_1"
+                                           ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1">Leiden</IntIoRef> is een internationale kennisstad (City of Science) en historische cultuurstad die volop groeit. Leiden maakt onderdeel uit van een verstedelijkte en succesvolle regio van ongeveer 300.000 inwoners, waarbinnen Leiden de kernstad vormt. In Leiden zal, gezien de beperkte ruimte binnen de stadgrenzen, de goede bereikbaarheid en de aanwezige voorzieningen, vooral ruimte zijn voor stedelijke leefmilieus. Daarbij wil Leiden een groene en duurzame stad zijn. En een inclusieve stad voor iedereen en met iedereen.</Al>
                               <Figuur eId="div_o_1__content_o_1__img_o_1"
-                                 wId="gm0546_1__div_o_1__content_o_1__img_o_1">
+                                      wId="gm0546_1__div_o_1__content_o_1__img_o_1">
                                  <Illustratie naam="image1.jpeg"
-                                    formaat="image/jpeg"
-                                    breedte="7937"
-                                    hoogte="5613"
-                                    dpi="72"
-                                    uitlijning="start"/>
+                                              formaat="image/jpeg"
+                                              breedte="7937"
+                                              hoogte="5613"
+                                              dpi="72"
+                                              uitlijning="start"/>
                                  <Bijschrift locatie="boven">Integrale visie</Bijschrift>
                               </Figuur>
                               <Al>Integrale tekstvervanging hoppaaaa. Vanuit de verschillende opgaven komen vier ruimtelijke hoofdopgaven naar voren voor Leiden; Er dient gezamenlijk aan deze opgaven ontworpen te worden omdat er onderlinge relaties tussen de opgaven aanwezig zijn.</Al>
@@ -170,68 +172,68 @@
                               <Opschrift>De drie leefmilieus</Opschrift>
                            </Kop>
                            <Divisietekst eId="div_o_1__div_o_1__content_o_1"
-                              wId="gm0546_1__div_o_1__div_o_1__content_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_1">
                               <Kop>
                                  <Opschrift>
                                     <IntIoRef eId="div_o_1__div_o_1__content_o_1__ref_o_1"
-                                       wId="gm0546_1__div_o_1__div_o_1__content_o_1__ref_o_1"
-                                       ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1">Leefmilieu Hoogstedelijk en dynamisch</IntIoRef> in 2040 (kaart 1)</Opschrift>
+                                              wId="gm0546_1__div_o_1__div_o_1__content_o_1__ref_o_1"
+                                              ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1">Leefmilieu Hoogstedelijk en dynamisch</IntIoRef> in 2040 (kaart 1)</Opschrift>
                               </Kop>
                               <Inhoud>
                                  <Al>Binnen dit leefmilieu zijn de belangrijkste functies op het gebied van kennis en cultuur te vinden. Dit zijn ook de ‘vaandeldragers’ waarmee de stad Leiden zich binnen de Randstad profileert (innovatiedistrict Bio Science Park – stationsgebied – historische cultuur-binnenstad). Het is het meest dynamische en stedelijke deel van Leiden: hier is de reuring! Veel verschillende mensen gebruiken het gebied op veel verschillende momenten om verschillende redenen. Evenementen en toeristische / culturele activiteiten geven kleur aan dit deel van stad.<br/>In dit deel van de stad wonen relatief veel kenniswerkers, creatievelingen, studenten en expats. Het gebied biedt, als onderdeel van de inclusieve stad ook ruimte aan de andere doelgroepen zoals sociale woningbouw, kwetsbare groepen en ouderen. Kennis en cultuur-functies zijn gebaat bij het ontmoeten: voor de uitwisseling van kennis, de bijdrage aan de innovatie en het creatieve proces is het belangrijk dat mensen elkaar op een ongedwongen, soms zelfs toevallige, manier kunnen ontmoeten en flexibel kunnen werken. Daarom bevinden zich hier ook hotels, cafés en restaurants en overige leisure functies en natuurlijk wordt er ook gewoond. Het gebied is aantrekkelijk door de aanwezigheid van beleefbaar erfgoed en hoogwaardig ingerichte openbare ruimten, parkjes en de grachten (groen en blauw). Verplaatsingen binnen het gebied zijn te voet, per fiets of met het openbaar vervoer. De auto heeft een ondergeschikte functie. Delen van dit gebied zijn autoluw of autovrij. Zo ontstaat in dit dichtbebouwde stedelijk gebied meer ruimte voor voetgangers, fietsers en ruimte en draagvlak voor het openbaar vervoer. Deelsystemen maken verplaatsen makkelijker.<br/>Het gebied heeft geen harde grenzen maar is via diverse robuuste en aantrekkelijke routes verbonden met de omliggende wijken en het omliggende landschap. De druk op de ruimte in het gebied is groot; de dichtheid is relatief hoog, de bebouwing compact met openbare straten en privé binnen gebieden/hofjes/balkons. De hoge dichtheid zorgt voor extra draagvlak voor zowel OV als de voorzieningen die het gebied levendig maken. De meeste voorzieningen zijn geclusterd langs doorlopende straten en historische routes en altijd nabij binnen het gebied. De economie is primair gericht op kennis (en met name Bio &amp; Life Science), cultuur, leisure en toerisme. Daar waar mogelijk zijn werk, wonen en voorzieningen veelal gemengd, naast elkaar en/of boven elkaar. Menging kan niet overal, bijvoorbeeld rond laboratoria op het Bio Science Park is wonen niet overal mogelijk.<br/>De belangrijkste grotere ruimtelijke dragers van het groen en blauw in dit gebied zijn de Oude Rijn, het Singelpark. Verdichting vindt plaats buiten de ‘beschermd stadsgezicht’-gebieden.<br/>Binnen het leefmilieu verschillen Bio Science Park, stationsgebied, binnenstad en Lammenschanscampus onderling, bijvoorbeeld wat betreft de programmatische mix, de verhouding historisch-nieuw en ruimtelijke vertaling. Wel vormen deze gebieden samen het hoogstedelijke en hoogdynamische hart van de stad.</Al>
                                  <Figuur eId="div_o_1__div_o_1__content_o_1__img_o_1"
-                                    wId="gm0546_1__div_o_1__div_o_1__content_o_1__img_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_1__img_o_1">
                                     <Illustratie naam="image2.jpeg"
-                                       formaat="image/jpeg"
-                                       breedte="7937"
-                                       hoogte="5611"
-                                       dpi="72"
-                                       uitlijning="start"/>
+                                                 formaat="image/jpeg"
+                                                 breedte="7937"
+                                                 hoogte="5611"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
                                     <Bijschrift locatie="boven">Kaart 1</Bijschrift>
                                  </Figuur>
                               </Inhoud>
                            </Divisietekst>
                            <Divisietekst eId="div_o_1__div_o_1__content_o_2"
-                              wId="gm0546_1__div_o_1__div_o_1__content_o_2">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_2">
                               <Kop>
                                  <Opschrift>
                                     <IntIoRef eId="div_o_1__div_o_1__content_o_2__ref_o_1"
-                                       wId="gm0546_1__div_o_1__div_o_1__content_o_2__ref_o_1"
-                                       ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1">Leefmilieu Stads en levendig</IntIoRef> in 2040 (kaart 2)</Opschrift>
+                                              wId="gm0546_1__div_o_1__div_o_1__content_o_2__ref_o_1"
+                                              ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1">Leefmilieu Stads en levendig</IntIoRef> in 2040 (kaart 2)</Opschrift>
                               </Kop>
                               <Inhoud>
                                  <Al>Gebieden in dit leefmilieu kenmerken zich door hun aantrekkelijke ligging direct grenzend aan het centrum van Leiden. In de gebieden wordt veel gewoond maar door de nabijheid van het centrum zijn de huishoudens stedelijk georiënteerd. In de gebieden wordt ook veel gewerkt, in huis, in de horeca en in de buurtgebonden bedrijvigheid. Dit leefmilieu biedt ruimte aan een mix van functies en een mix van doelgroepen/ huishoudens. Deze mix kan per buurt wel verschillen.<br/>De meeste verplaatsingen worden gedaan per fiets en te voet. De verbindingen met het centrum zijn via een fijnmazig langzaamverkeersnetwerk goed in orde. De belangrijkste fietsverbindingen tussen de gebieden en de binnenstad zijn de historische invalswegen van Leiden. Langs deze wegen liggen de meeste voorzieningen zodat de voorzieningen overal in het gebied nabij zijn.<br/>Grote delen van dit gebied lenen zich voor verdere verdichting en verstedelijking. In dit gebied wordt dan ook een aanzienlijk deel van de woningbouwopgave ingepast. Intensivering leidt dit ook steeds tot kwaliteitsverbetering. Verdichting vindt veelal plaats buiten de beschermd stadsgezicht-gebieden.<br/>De gemakkelijkste vervoerskeuze vanuit het gebied naar de binnenstad is met te voet of met de fiets, met de auto zijn de verbindingen naar de Leidse ring goed in orde. De goede bereikbaarheid met openbaar vervoer leent zich voor de gewenste autoluwe verstedelijking, passend bij de groene en duurzame stad die Leiden wil zijn.</Al>
                                  <Al>De openbare ruimte en het groen/water nodigen uit tot gebruik. Deze plekken geven lucht en ruimte in de verder verdichtende stad. Door en langs de buurten loopt de stedelijke hoofdgroen-blauwstructuur (onder andere Singelpark en tweede groene ring) zodat de wijken via groene routes goed verbonden zijn met het buitengebied. Ook dragen deze structuren bij aan recreatiemogelijkheden en opgaven rond klimaatadaptatie.</Al>
                                  <Figuur eId="div_o_1__div_o_1__content_o_2__img_o_1"
-                                    wId="gm0546_1__div_o_1__div_o_1__content_o_2__img_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_2__img_o_1">
                                     <Illustratie naam="image3.jpeg"
-                                       formaat="image/jpeg"
-                                       breedte="7937"
-                                       hoogte="5603"
-                                       dpi="72"
-                                       uitlijning="start"/>
+                                                 formaat="image/jpeg"
+                                                 breedte="7937"
+                                                 hoogte="5603"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
                                     <Bijschrift locatie="boven">Kaart 2</Bijschrift>
                                  </Figuur>
                               </Inhoud>
                            </Divisietekst>
                            <Divisietekst eId="div_o_1__div_o_1__content_o_3"
-                              wId="gm0546_1__div_o_1__div_o_1__content_o_3">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_3">
                               <Kop>
                                  <Opschrift>
                                     <IntIoRef eId="div_o_1__div_o_1__content_o_3__ref_o_1"
-                                       wId="gm0546_1__div_o_1__div_o_1__content_o_3__ref_o_1"
-                                       ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1">Leefmilieu Groen en luw</IntIoRef> in 2040 (kaart 3)</Opschrift>
+                                              wId="gm0546_1__div_o_1__div_o_1__content_o_3__ref_o_1"
+                                              ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1">Leefmilieu Groen en luw</IntIoRef> in 2040 (kaart 3)</Opschrift>
                               </Kop>
                               <Inhoud>
                                  <Al>De wijken aan de randen van de stad profiteren van zowel de ligging op fietsafstand van de binnenstad als de ligging aan de grote landschappen. Stad én buitengebied zijn nabij. De grote kracht van deze gebieden is de relatieve rust, het groene karakter (zowel openbaar groen als privétuinen) en het relatief grote aandeel eengezinswoningen. Het zijn de wat meer traditionele woonwijken, met een centraal gelegen voorzieningencentrum en wijk(sport)park. Naast de woongebieden bevinden zich hier ook de meer traditionele bedrijventerreinen met de dienstverlenende bedrijfsfuncties die niet goed mengbaar zijn met wonen.<br/>De auto heeft hier een belangrijke rol. De wijken liggen aan de belangrijke invalswegen van de stad. Via de Leidse ring zijn de verbindingen naar andere wijken met de auto goed op orde. De fietsroutes tussen deze wijken en de binnenstad / stations / andere wijken zijn direct en aantrekkelijk. Waar mogelijk maken zij gebruik van de historische routes die stad en ommeland al sinds jaar en dag met elkaar verbinden. Barrières als grote infrastructuur en water worden waar nodig beter oversteekbaar. Openbaar vervoer (bus, MAAS) verbindt de wijk(centra) met de binnenstad en het station.<br/>Het wijkwinkelcentrum vormt, samen met het goed toegankelijke wijk(sport)park, het hart van de wijk. Historische routes, (water)structuren en bijzondere plekken geven meer kleur aan de openbare ruimte. De tweede groene ring in de stad (naast het Singelpark)<br/>In deze wijken wonen relatief veel gezinnen. Extra (gestapelde) woningen voor oudere doelgroepen en kleinere huishoudens kunnen de bestaande woningvoorraad aanvullen. De groeiende groep ouderen kan zo binnen de wijk (en het sociale netwerk) doorstromen.</Al>
                                  <Figuur eId="div_o_1__div_o_1__content_o_3__img_o_1"
-                                    wId="gm0546_1__div_o_1__div_o_1__content_o_3__img_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_1__content_o_3__img_o_1">
                                     <Illustratie naam="image4.jpeg"
-                                       formaat="image/jpeg"
-                                       breedte="7937"
-                                       hoogte="5605"
-                                       dpi="72"
-                                       uitlijning="start"/>
+                                                 formaat="image/jpeg"
+                                                 breedte="7937"
+                                                 hoogte="5605"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
                                     <Bijschrift locatie="boven">Kaart 3</Bijschrift>
                                  </Figuur>
                               </Inhoud>
@@ -240,19 +242,19 @@
                         <Divisie eId="div_o_1__div_o_2" wId="gm0546_1__div_o_1__div_o_2">
                            <Kop>
                               <Opschrift>Gebieden binnen de stad (met soms overlappende leefmilieu’s) (Voorbeeld vastgesteld <IntIoRef eId="div_o_1__div_o_2__ref_o_1"
-                                 wId="gm0546_1__div_o_1__div_o_2__ref_o_1"
-                                 ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1">ontwikkelperspectief Zuidwest</IntIoRef>)</Opschrift>
+                                           wId="gm0546_1__div_o_1__div_o_2__ref_o_1"
+                                           ref="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1">ontwikkelperspectief Zuidwest</IntIoRef>)</Opschrift>
                            </Kop>
                            <Divisietekst eId="div_o_1__div_o_2__content_o_1"
-                              wId="gm0546_1__div_o_1__div_o_2__content_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_2__content_o_1">
                               <Inhoud>
                                  <Al>Klein stukje tekst over zuidwest in visie verder verwijzen naar document <ExtRef ref="https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0546.OP00001-0201/t_NL.IMRO.0546.OP00001-0201.pdf"
-                                    soort="URL">https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0546.OP00001-0201/t_NL.IMRO.0546.OP00001-0201.pdf</ExtRef>
+                                            soort="URL">https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0546.OP00001-0201/t_NL.IMRO.0546.OP00001-0201.pdf</ExtRef>
                                  </Al>
                               </Inhoud>
                            </Divisietekst>
                            <Divisietekst eId="div_o_1__div_o_2__content_o_2"
-                              wId="gm0546_1__div_o_1__div_o_2__content_o_2">
+                                         wId="gm0546_1__div_o_1__div_o_2__content_o_2">
                               <Kop>
                                  <Opschrift>Visie voor Leiden Zuidwest in 2040</Opschrift>
                               </Kop>
@@ -260,13 +262,13 @@
                                  <Al>In 2040 is Leiden Zuidwest een aantrekkelijke wijk waar mensen prettig wonen, werken en recreëren. In deze wijk kunnen mensen modern in het groen wonen maar ook wonen en werken in een stedelijke gebied en recreëren in het landschap. Een aantal bijzondere plekken geeft Zuidwest extra karakter en maakt het ook voor mensen van buiten het gebied aantrekkelijk om er naar toe te gaan. Dit zijn zowel bruisende stedelijke plekken, als mooie rustige plekken aan de historische landschappelijke structuren. Met name de sportvoorzieningen, de lokale centra en de scholen hebben een wijkoverstijgende functie. De karakteristieke kwaliteiten uit verschillende perioden zijn versterkt en zichtbaar gemaakt in het gebied.</Al>
                                  <Al>In 2040 is Zuidwest een voorloper op het gebied van gezond &amp; duurzaam leven. Centraal daarbij staat het groen in Zuidwest. Het groen is herkenbaar onderverdeeld in (1) een robuust blauw-groen netwerk door het gebied, (2) buurtparken en (3) gebruikt groen aan huis. Het groen en het water zijn dragende kwaliteiten die bijdragen aan meerdere doelen. Het groen zorgt voor een natuurlijke en gezonde omgeving en nodigt uit tot beweging: lopen en fietsen, maar ook spelen en sporten. Tegelijk brengt het groen rust en zijn er groene plekken waar mensen elkaar ontmoeten en in contact komen met een rijk leven van planten en dieren. Het groen maakt het gebied klimaatrobuust. Doordat de wijk geen aardgas meer gebruikt, zet Zuidwest zich in voor een schone lucht en een stabiel klimaat.<br/>Leiden Zuidwest is in 2040 een wijk waarin inwoners zich met elkaar verbonden voelen en naar elkaar om kijken. Het is een inclusieve wijk waarin iedereen prettig en gezond kan wonen en meedoet. Het is een dynamische woonwijk waar mensen werken en naar school gaan.<br/>In 2040 is Zuidwest goed met haar omgeving verbonden door nieuwe verbindingen en slimme mobiliteitsconcepten. De prioriteit ligt bij de fietser, de voetganger en het openbaar vervoer. Doordat straten en lanen meer een plek worden om aangenaam te verblijven, wordt het aantrekkelijker om je als voetganger en fietser door het gebied te verplaatsen. Met de voortschrijdende techniek zijn er slimme en schone vervoersconcepten. In 2040 is de openbare ruimte en het OV-systeem zo ingericht, dat speciale doelgroepen zich gemakkelijk kunnen verplaatsen.</Al>
                                  <Figuur eId="div_o_1__div_o_2__content_o_2__img_o_1"
-                                    wId="gm0546_1__div_o_1__div_o_2__content_o_2__img_o_1">
+                                         wId="gm0546_1__div_o_1__div_o_2__content_o_2__img_o_1">
                                     <Illustratie naam="image5.png"
-                                       formaat="image/png"
-                                       breedte="7937"
-                                       hoogte="9836"
-                                       dpi="72"
-                                       uitlijning="start"/>
+                                                 formaat="image/png"
+                                                 breedte="7937"
+                                                 hoogte="9836"
+                                                 dpi="72"
+                                                 uitlijning="start"/>
                                  </Figuur>
                                  <Al>Zie document zuidwest voor contouren</Al>
                               </Inhoud>

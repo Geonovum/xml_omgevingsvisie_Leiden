@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0546/2020/gemeente_leiden</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>001_gemeente_leiden.gml</bestandsnaam>
-                  <hash>16aa5de688747dcbafff129cf02f2a8b51ab6536a21a16d6f4ad1c5bb253601b5601fbb7f20eba4a327dcb5b6f1f13f41087951907d3b7454a5ee541e26ed784</hash>
+                  <hash>8c64c0866d5cc88382e0d8d3c2b29249775dbf5991aece83a4509582509c7995073f85e3dd818b8d0cf6b78cec4daf50b1cf9365e274de2805979416a15507c0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

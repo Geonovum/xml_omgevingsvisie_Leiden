@@ -45,10 +45,9 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie</vt:thema>-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--               <vt:thema>http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema> <!--NIEUW-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
+               <!--NIEUW-->
                <!--toegevoegd om een afwijking te constateren met initiële aanlevering-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20200002"/>

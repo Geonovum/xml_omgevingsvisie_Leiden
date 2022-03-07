@@ -67,9 +67,9 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie</vt:thema>-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--               <vt:thema>http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema> <!--NIEUW-->
+               <!--NIEUW-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20220002"/>
                </vt:divisieaanduiding>
@@ -93,8 +93,7 @@
                <ow:procedurestatus>ontwerp</ow:procedurestatus>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.20220003</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid</vt:thema>-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurFietsinfrastructuurEnWandelpaden</vt:thema>-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurWegen</vt:thema>-->
@@ -122,7 +121,7 @@
                <vt:identificatie>nl.imow-gm0546.tekstdeel.20220004</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--               <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesWonen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen</vt:thema>-->
@@ -152,8 +151,7 @@
                <!--               <vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurLeidingen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurLeidingen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurKabelsEnLeidingen</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20220005"/>
                </vt:divisieaanduiding>
@@ -226,7 +224,7 @@
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurWegen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20220008"/>
                </vt:divisieaanduiding>
@@ -259,8 +257,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurWegen</vt:thema>-->
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaat/id/concept/Klimaat</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20220009"/>
                </vt:divisieaanduiding>
@@ -291,8 +288,7 @@
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurFietsinfrastructuurEnWandelpaden</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesWonen</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20220010"/>
                </vt:divisieaanduiding>

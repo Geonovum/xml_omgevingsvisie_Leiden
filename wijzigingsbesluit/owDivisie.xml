@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
-   xmlns:op="http://www.geostandaarden.nl/imow/opobject"
-   xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-   xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-   xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
-   xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-   xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-   xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-   xmlns:p="http://www.geostandaarden.nl/imow/pons"
-   xmlns:r="http://www.geostandaarden.nl/imow/regels"
-   xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
-   xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xmlns:op="http://www.geostandaarden.nl/imow/opobject"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Gemeente Leiden</sl:dataset>
       <sl:inhoud>
@@ -27,7 +27,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__div_o_1__div_o_1">
+            <vt:Divisie wId="gm0546_1__cmp_I__div_o_1">
                <vt:identificatie>nl.imow-gm0546.divisie.eerstedivisie</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -36,7 +36,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.eerstedivisie</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.eerstedivisie"/>
                </vt:divisieaanduiding>
@@ -60,7 +60,7 @@
          <ow-dc:owObject>
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.eerstedivisietekst</vt:identificatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.eerstedivisietekst"/>
                </vt:divisieaanduiding>
@@ -90,7 +90,7 @@
                <!--<vt:thema>http://standaarden.omgevingswet.overheid.nl/infrastructuur/id/concept/InfrastructuurWegen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen</vt:thema>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat</vt:thema>-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.20200008"/>
                </vt:divisieaanduiding>

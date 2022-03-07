@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/gm0546/2020/2_stads_en_levendig</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>004_2_stads_en_levendig.gml</bestandsnaam>
-                  <hash>8adc97b20bb135916b3ef3a0c5189af8dae0f9c7535840b554aa793663e3598654899f127c494245eac62696394c56406ff628221cd7560b41dfb3f135601dbd</hash>
+                  <hash>fdf90947873192a7e1d4baa7495871f2fa4b82d2a9f69774a4a371c1d971c2198c6942929d2cbfc29b09603f5eda90124dee78b32cb6601f0081320955dff101</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
