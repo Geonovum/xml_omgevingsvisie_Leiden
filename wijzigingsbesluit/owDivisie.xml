@@ -27,7 +27,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="gm0546_1__cmp_I__div_o_1">
+            <vt:Divisie wId="gm0546_1__div_o_1__div_o_1">
                <vt:identificatie>nl.imow-gm0546.divisie.eerstedivisie</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -37,6 +37,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.eerstedivisie</vt:identificatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-gm0546.divisie.eerstedivisie"/>
                </vt:divisieaanduiding>
@@ -61,6 +62,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-gm0546.tekstdeel.eerstedivisietekst</vt:identificatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-gm0546.divisietekst.eerstedivisietekst"/>
                </vt:divisieaanduiding>

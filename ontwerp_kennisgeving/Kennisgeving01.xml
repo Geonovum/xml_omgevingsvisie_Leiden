@@ -16,7 +16,7 @@
       <officieleTitel>Kennisgeving van het bekend maken van het ontwerpbesluit tot instellen van de Omgevingsvisie Utrecht</officieleTitel>
       <onderwerpen>
         <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
-      </onderwerpen>
+      </onderwerpen> 
       <mededelingOver>/akn/nl/bill/gm0546/2020/OVILEI001Ontwerp/nld@2020-08-19</mededelingOver>
     </KennisgevingMetadata>
     <Procedureverloopmutatie 
@@ -26,12 +26,12 @@
         <Procedurestap>
           <!-- nieuw! begin inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_014</soortStap>
-          <voltooidOp>2022-04-19</voltooidOp>
+          <voltooidOp>2022-05-19</voltooidOp>
         </Procedurestap>
         <Procedurestap>
           <!-- stap_005 = eind inzagetermijn -->
           <soortStap>/join/id/stop/procedure/stap_005</soortStap>
-          <voltooidOp>2022-05-31</voltooidOp>
+          <voltooidOp>2022-06-30</voltooidOp>
         </Procedurestap>
       </voegStappenToe>
     </Procedureverloopmutatie>
