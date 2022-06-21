@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
-   <idLevering>Geonovum-Leiden-Omgevingsvisie-001</idLevering>
+   <idLevering>Geonovum-Leiden-Omgevingsvisie-002</idLevering>
    <idBevoegdGezag>00000001002311112000</idBevoegdGezag>
    <idAanleveraar>00000003560458830000</idAanleveraar>
    <publicatie>OVILEI001.xml</publicatie>
-   <datumBekendmaking>2022-03-31</datumBekendmaking>
+   <datumBekendmaking>2022-06-22</datumBekendmaking>
 </publicatieOpdracht>
