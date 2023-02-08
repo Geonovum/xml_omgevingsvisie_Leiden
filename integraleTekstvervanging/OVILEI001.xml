@@ -95,7 +95,11 @@
             <RegelingMutatie componentnaam="integraletekstvervanging"
                              was="/akn/nl/act/gm0546/2020/OVILEI001/nld@2020-08-19;1"
                              wordt="/akn/nl/act/gm0546/2020/OVILEI001/nld@2021-01-11;2">
-               <Vervang wat="body">
+               <VervangRegeling>
+                  <RegelingVrijetekst>
+                     <RegelingOpschrift eId="longTitle" wId="longTitle">
+                        <Al>Besluit Omgevingsvisie Leiden (Geonovum-voorbeeld)</Al>
+                     </RegelingOpschrift>
                   <Lichaam eId="body" wId="body">
                      <Divisie eId="div_o_1" wId="gm0546_1__div_o_1">
                         <Kop>
@@ -276,7 +280,77 @@
                         </Divisie>
                      </Divisie>
                   </Lichaam>
-               </Vervang>
+                     <Bijlage eId="cmp_1" wId="gm0546_1__cmp_1">
+                        <Kop>
+                           <Label>Bijlage</Label>
+                           <Nummer>1</Nummer>
+                           <Opschrift>Overzicht informatieobjecten</Opschrift>
+                        </Kop>
+                        <Divisietekst eId="cmp_1__content_o_1" wId="gm0546_1__cmp_1__content_o_1">
+                           <Inhoud>
+                              <Begrippenlijst eId="cmp_1__content_o_1__list_o_1"
+                                 wId="gm0546_1__cmp_1__content_o_1__list_o_1">
+                                 <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
+                                    wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_1">
+                                    <Term>Gemeente Leiden</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                             wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                             ref="/join/id/regdata/gm0546/2020/gemeente_leiden/nld@2020-08-20">/join/id/regdata/gm0546/2020/gemeente_leiden/nld@2020-08-20</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_2"
+                                    wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_2">
+                                    <Term>Ontwikkelperspectief Zuidwest</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                             wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                             ref="/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20">/join/id/regdata/gm0546/2020/ontwikkelperspectief_zuidwest/nld@2020-08-20</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_3"
+                                    wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_3">
+                                    <Term>1 Hoogstedelijk en dynamisch</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                             wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                             ref="/join/id/regdata/gm0546/2020/1_hoogstedelijk_en_dynamisch/nld@2020-08-20">/join/id/regdata/gm0546/2020/1_hoogstedelijk_en_dynamisch/nld@2020-08-20</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_4"
+                                    wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_4">
+                                    <Term>2 Stads en levendig</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                             wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                             ref="/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20">/join/id/regdata/gm0546/2020/2_stads_en_levendig/nld@2020-08-20</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                                 <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_5"
+                                    wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_5">
+                                    <Term>3 Groen en luw</Term>
+                                    <Definitie>
+                                       <Al>
+                                          <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                             wId="gm0546_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                             ref="/join/id/regdata/gm0546/2020/3_groen_en_luw/nld@2020-08-20">/join/id/regdata/gm0546/2020/3_groen_en_luw/nld@2020-08-20</ExtIoRef>
+                                       </Al>
+                                    </Definitie>
+                                 </Begrip>
+                              </Begrippenlijst>
+                           </Inhoud>
+                        </Divisietekst>
+                     </Bijlage>
+                  </RegelingVrijetekst>
+               </VervangRegeling>
             </RegelingMutatie>
          </WijzigBijlage>
       </BesluitCompact>
